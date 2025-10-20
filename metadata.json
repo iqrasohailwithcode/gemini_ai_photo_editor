@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini AI Photo Editor",
+  "description": "An AI-powered photo editing application that uses Google's Gemini API to modify images based on user-provided text prompts. Upload a photo, describe your desired changes, and let the AI bring your vision to life.",
+  "requestFramePermissions": []
+}
